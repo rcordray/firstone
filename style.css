@@ -1,3 +1,8 @@
+h1 {
+  font size: 20px;
+  color: black;
+}
 p {
-  color: red;
+  font-size: 18px;
+color: black;
 }
