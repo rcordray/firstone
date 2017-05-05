@@ -2,12 +2,10 @@ header {
   background-image: url("https://scontent.xx.fbcdn.net/v/t1.0-9/11702896_10153593622399050_2762491778545875667_n.jpg?oh=c785fb99bbcc30eef85452ff685c73ed&oe=5984D31F");
   height: 500px;
   background-position: center center;
-
-* {
-  font-family: "Arial";
 }
 
 h1 {
+  font: "Arial";
   font-size: 28px;
   color: black;
 }
@@ -18,9 +16,11 @@ color: black;
 }
 
 h2 {
+  font: "Arial Black";
   font-size: 24px;
 }
 
 h3 {
+  font: "Arial";
   font-size: 18px;
 }
