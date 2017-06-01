@@ -1,25 +1,27 @@
 body {
-  background-color: black
-    text: white
+  background-color: black;
+
 }
 
 h1 {
   font: "Arial";
   font-size: 28px;
-  color: black;
+  color: white;
 }
 
 p {
   font-size: 18px;
-color: black;
+color: white;
 }
 
 h2 {
   font: "Arial Black";
   font-size: 24px;
+  color: white;
 }
 
 h3 {
   font: "Arial";
   font-size: 18px;
+  color: white;
 }
