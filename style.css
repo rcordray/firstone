@@ -1,6 +1,10 @@
 * {
-  background-color: black;
+  background-color:grey;
+}
 
+.intro {
+  font-weight: bold;
+  border: 1px
 }
 
 h1 {
